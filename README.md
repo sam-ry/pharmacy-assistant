@@ -13,7 +13,7 @@ You can then pay and click "Close Browser"
 
 ## To Run
 ##### Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt  
 python -m playwright install
 ##### Run
 python app.py
