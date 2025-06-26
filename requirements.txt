@@ -1,0 +1,4 @@
+pymupdf
+gradio
+spacy
+playwright
